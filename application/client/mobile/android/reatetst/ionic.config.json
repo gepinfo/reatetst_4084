@@ -1,0 +1,7 @@
+{
+  "name": "reatetst",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
